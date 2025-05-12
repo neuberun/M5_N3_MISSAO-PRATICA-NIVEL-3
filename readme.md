@@ -5,8 +5,6 @@ Manipulação e tratamento de dados com a biblioteca **Pandas**. O objetivo é o
 
 ## Descritivo do processo
 
-   vide descrição no arquivo **missao pratica.pdf**
-
    <img src="missao/images/doc_missao_pratica.png" alt="documento mp pdf" width="500"/>
 
 ## Executando o Projeto
